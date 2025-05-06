@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("jaqueen peru");
+            Console.Writeline("Chupapi mi muneno");
              Console.Readkey();
         }
     }
